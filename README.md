@@ -18,7 +18,7 @@ Use this account to test the app immediately:
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/nazarulazham/flutterRamadan
    ```
 2. **Navigate into the project folder**
 
